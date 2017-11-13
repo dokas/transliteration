@@ -1,5 +1,5 @@
 <?php
-namespace doka\transliteration;
+namespace dokas\transliteration;
 
 class Transliteration 
 {
@@ -137,4 +137,3 @@ class Transliteration
 		return str_replace(array_keys($this->getTransliterationTable()), array_values($this->getTransliterationTable()), $content);
 	}
 }
-

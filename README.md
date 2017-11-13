@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-$ php composer.phar require --prefer-dist doka/transliteration "*"
+$ php composer.phar require --prefer-dist dokas/transliteration "*"
 ```
 
 or add
 
 ```json
-"doka/transliteration": "*"
+"dokas/transliteration": "*"
 ```
 
 to the require section of your `composer.json` file.

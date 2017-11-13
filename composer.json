@@ -1,5 +1,5 @@
 {
-    "name": "doka/transliteration",
+    "name": "dokas/transliteration",
     "type": "library",
     "description": "This class transliterates strings",
     "keywords": ["transliteration"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "doka\\transliteration\\": "src"
+            "dokas\\transliteration\\": "src"
         }
     }
 }
