@@ -1,7 +1,7 @@
 {
     "name": "doka/transliteration",
     "type": "library",
-    "description": "This class transliterate string",
+    "description": "This class transliterates strings",
     "keywords": ["transliteration"],
     "license": "MIT",
     "authors": [
