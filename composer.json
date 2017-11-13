@@ -1,0 +1,21 @@
+{
+    "name": "doka/transliteration",
+    "type": "library",
+    "description": "This class transliterate string",
+    "keywords": ["transliteration"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stas",
+            "email": "stas0412@gmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "doka\\transliteration\\": "src"
+        }
+    }
+}
